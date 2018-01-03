@@ -1,2 +1,3 @@
 # JsonParser
-Checks the validity of parser
+Checks the validity of json structure
+Language: Java
